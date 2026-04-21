@@ -1,0 +1,9 @@
+.idea/
+.keras/
+.lightning_studio/
+.vscode/
+data/
+dataset/
+cats-and-dogs-mini-dataset.zip
+__pycache__/
+*.pyc
